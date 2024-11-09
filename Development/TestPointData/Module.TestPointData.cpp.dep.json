@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\product\\workspace\\testpointdata\\intermediate\\build\\win64\\x64\\unrealgame\\development\\testpointdata\\module.testpointdata.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\product\\workspace\\testpointdata\\intermediate\\build\\win64\\x64\\testpointdata\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "f:\\product\\workspace\\testpointdata\\intermediate\\build\\win64\\x64\\unrealgame\\development\\testpointdata\\definitions.testpointdata.h",
+            "f:\\product\\workspace\\testpointdata\\intermediate\\source\\testpointdata.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"F:\\Product\\WorkSpace\\TestPointData\\Intermediate\\Source\\TestPointData.Build.cs",
+		"F:\\Product\\WorkSpace\\TestPointData\\Intermediate\\Source\\TestPointData.Target.cs",
+		"F:\\Product\\WorkSpace\\TestPointData\\Intermediate\\Source\\TestPointDataClient.Target.cs",
+		"F:\\Product\\WorkSpace\\TestPointData\\Intermediate\\Source\\TestPointDataEditor.Target.cs",
+		"F:\\Product\\WorkSpace\\TestPointData\\Intermediate\\Source\\TestPointDataServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
